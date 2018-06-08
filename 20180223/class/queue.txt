@@ -1,0 +1,8 @@
+Queue is empty!
+10 
+10 12 
+10 12 14 
+front=14
+back=10
+12 14 
+Queue is not full!

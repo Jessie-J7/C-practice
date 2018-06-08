@@ -1,0 +1,8 @@
+Stack is empty!
+10 
+10 12 
+10 12 14 
+top=14
+10 12 
+top=12
+Stack is not full!
